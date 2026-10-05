@@ -46,7 +46,7 @@ export default function AdminDashboard() {
                 <path d="M3 12h3l2-7 4 14 3-9 2 2h4"/>
               </svg>
             </div>
-            <span className="text-base font-semibold">
+            <span className="text-base font-semibold text-gray-900">
               Shastho<span className="text-blue-600">Sheba</span>
             </span>
           </Link>
