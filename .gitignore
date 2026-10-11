@@ -43,3 +43,7 @@ next-env.d.ts
 /app/generated/prisma
 dev.db
 *.db
+AGENTS.md
+CLAUDE.md
+.DS_Store
+*.DS_Store
